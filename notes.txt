@@ -1,0 +1,11 @@
+Overview
+Goal: 
+-Give the participants the tools necessary to succeed in transitionaing to a QA engineering role
+-Language & reasoning
+ ~Python
+
+Timeline:
+1) Basics (syntax, easy examples)
+2) Algos, complexity, etc
+3) Problem solving (this is going to hurt, there will be math)
+4) Maxwell tickets
